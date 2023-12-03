@@ -27,4 +27,6 @@ I typed cd lab7 <enter>. Then I typed bash test.sh <enter>. This then provided t
 vim ListExamples.java <enter> i insert mode. down 14 times. right 22 times. delete 3 times. result.add(0, s) to result.add(s). down 28 times.left 6 times. delete once to delete 1 in index1 then 2 to change it to index2. <esc> :wq <enter>
 
 # Step 8
+git add
+- git commit -m "fix bugs"
 
