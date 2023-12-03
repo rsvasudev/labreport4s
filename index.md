@@ -18,7 +18,7 @@ I typed git clone git@github.com:rsvasudev/lab7.git, which is the respective ssh
 ```
 
 ## Step 6
-
+![Image](runningtests.png)
 ```ruby
-
+I typed cd lab7 <enter>. Then I typed bash test.sh <enter>. This then provided the failure output shown in the screenshot.
 ```
