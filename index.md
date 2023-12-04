@@ -1,6 +1,6 @@
 # Lab Report 4 
 
-Note: asked  TA about spaces was told don't need to include them as special characters.
+Note: asked  TA about spaces was told don't need to include them as special characters. I also assumed I didn't need to include <shift> as a button as I asked in office hours although i used shift sometimes where i thought it was necessary.
 
 ## Step 4 
 ![Image](LoggingIn.png)
@@ -18,7 +18,7 @@ Keys pressed:
 ```ruby
 git clone <command+v><enter>
 ```
-I typed ```git clone <command>v<enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained.
+I typed ```git clone <command>v<enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained. Note <command+v> means both keys were pressed at the same time.
 
 ## Step 6
 ![Image](actualrunningtests.sh)
