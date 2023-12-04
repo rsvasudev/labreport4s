@@ -1,12 +1,14 @@
 # Lab Report 4
 
+Note: asked  TA about spaces was told don't need to include them as special characters.
+
 ## Step 4 
 ![Image](LoggingIn.png)
 Keys pressed: 
 ```ruby
 ssh cs15lfa23ox@ieng6.ucsd.edu<enter>, Mypassword1<enter>.
 ```
-I typed ssh cs15lfa23ox@ieng6.ucsd.edu <enter> and then at the prompt for the password i typed my password and then <enter>. The output i obtained is in the screenshot above. 
+I typed ```ssh cs15lfa23ox@ieng6.ucsd.edu<enter>``` and then at the prompt for the password i typed my password and then ```<enter>```. The output i obtained is in the screenshot above. 
 Note: I was doing this lab report on a school computer as my laptop broke, where the without password login was setup. I asked a TA if it mattered if i had a password for this step and they said it was ok.
 
 ## Step 5
@@ -16,7 +18,7 @@ Keys pressed:
 ```ruby
 git clone git@github.com:rsvasudev/lab7.git<enter>
 ```
-I typed git clone git@github.com:rsvasudev/lab7.git, which is the respective ssh link of the repository that i forked, and then pressed <enter>. This was the output I obtained.
+I typed ```git clone git@github.com:rsvasudev/lab7.git```, which is the respective ssh link of the repository that i forked, and then pressed ```<enter>```. This was the output I obtained.
 
 ## Step 6
 ![Image](actualrunningtests.png)
@@ -25,7 +27,7 @@ Keys pressed:
 ```ruby
 cd lab7<enter>, bash test.sh<enter>
 ```
-I typed cd lab7<enter>. Then I typed bash test.sh <enter>. This then provided the failure output shown in the screenshot.
+I typed ```cd lab7<enter>```. Then I typed ```bash test.sh <enter>``` to run the tests. This then provided the failure output shown in the screenshot.
 
 ## Step 7
 ![Image](vim.png)
@@ -39,7 +41,7 @@ Keys pressed:
 ```ruby
 vim ListExamples.java<enter>, <shift>;44<enter>, i<right><right><right><right><right><right><delete>2, <esc><shift>;wq<enter>
 ```
-I typed vim ListExamples.java <enter> to go into the code to fix the bug. Next, I typed  <shift> ; 44 <enter> to go to the line where the bug was. Then, I typed i to go into insert mode to make edits and then <right><right><right><right><right><right> to go to where I needed to change the code. Then i typed <delete> 2 to chnage the index1 to index2 to fix the bug. Then, I typed <esc><shift>;wq<enter> to go out of insert mode and save my changes.
+I typed ```vim ListExamples.java <enter>``` to go into the code to fix the bug. Next, I typed  ```<shift>;44<enter>``` to go to the line where the bug was. Then, I typed ```i``` to go into insert mode to make edits and then ```<right><right><right><right><right><right>``` to go to where I needed to change the code. Then i typed ```<delete> 2``` to chnage the index1 to index2 to fix the bug. Then, I typed ```<esc><shift>;wq<enter>``` to go out of insert mode and save my changes.
 
 ## Step 8
 ![Image](success.png)
@@ -47,7 +49,7 @@ Keys pressed:
 ```ruby
 <up><up><up><up><up><enter>
 ```
-I pressed the <up> button 5 times as the ```ruby bash test.sh ``` was 5 up. The output of the successful test is shown.
+I pressed <up> 5 times as the ```bash test.sh``` was 5 up. The output of the successful test is shown.
 
 ## Step 9
 ![Image](laststep.png)
