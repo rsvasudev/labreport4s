@@ -16,9 +16,9 @@ Note: I was doing this lab report on a school computer as my laptop broke, where
 
 Keys pressed:
 ```ruby
-git clone git@github.com:rsvasudev/lab7.git<enter>
+git clone <command>v<enter>
 ```
-I typed ```git clone git@github.com:rsvasudev/lab7.git```, which is the respective ssh link of the repository that i forked, and then pressed ```<enter>```. This was the output I obtained.
+I typed ```git clone <command>v<enter>```, which is the respective ssh link of the repository that i forked and ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>```. This was the output I obtained.
 
 ## Step 6
 ![Image](actualrunningtests.png)
