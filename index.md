@@ -6,7 +6,7 @@ Note: asked  TA about spaces was told don't need to include them as special char
 ![Image](LoggingIn.png)
 Keys pressed: 
 ```ruby
-ssh cs15lfa23ox@ieng6.ucsd.edu<enter>, Mypassword1<enter>.
+ssh cs15lfa23ox@ieng6.ucsd.edu<enter>, Mypassword1<enter>
 ```
 I typed ```ssh cs15lfa23ox@ieng6.ucsd.edu<enter>``` and then at the prompt for the password i typed my password and then ```<enter>```. The output i obtained is in the screenshot above. 
 Note: I was doing this lab report on a school computer as my laptop broke, where the without password login was setup. I asked a TA if it mattered if i had a password for this step and they said it was ok.
