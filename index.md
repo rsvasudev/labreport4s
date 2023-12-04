@@ -2,7 +2,7 @@
 
 ## Step 4 
 ![Image](LoggingIn.png)
-Special Keys pressed: 
+Keys pressed: 
 ```ruby
 ssh cs15lfa23ox@ieng6.ucsd.edu<enter>, Mypassword1<enter>.
 ```
@@ -20,6 +20,8 @@ I typed git clone git@github.com:rsvasudev/lab7.git, which is the respective ssh
 
 ## Step 6
 ![Image](actualrunningtests.png)
+
+Keys pressed:
 ```ruby
 cd lab7<enter>, bash test.sh<enter>
 ```
@@ -33,11 +35,21 @@ Above is the code before it was edited
 ![Image](codeafter.png)
 This is the code after the 1 was changed to a 2 and the :wq was typed to save the changes.
 
+Keys pressed:
 ```ruby
 vim ListExamples.java<enter>, <shift>;44<enter>, i<right><right><right><right><right><right><delete>2, <esc><shift>;wq<enter>
 ```
 I typed vim ListExamples.java <enter> to go into the code to fix the bug. Next, I typed  <shift> ; 44 <enter> to go to the line where the bug was. Then, I typed i to go into insert mode to make edits and then <right><right><right><right><right><right> to go to where I needed to change the code. Then i typed <delete> 2 to chnage the index1 to index2 to fix the bug. Then, I typed <esc><shift>;wq<enter> to go out of insert mode and save my changes.
 
 ## Step 8
+
+
+## Step 9
+![Image](laststep.png)
+Keys pressed:
+```ruby
+git add .<enter>, git commit -m "muthu"<enter>, git push<enter>
+```
+I typed all these commands as they hadn't been used previously. The output is shown above. This , then pushed it to my github account successfully.
 
 
