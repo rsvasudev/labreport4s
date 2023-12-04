@@ -18,7 +18,7 @@ Keys pressed:
 ```ruby
 git clone <command+v><enter>
 ```
-I typed ```git clone <command>v<enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained. Note <command+v> means both keys were pressed at the same time.
+I typed ```git clone <command+v><enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained. Note <command+v> means both keys were pressed at the same time.
 
 ## Step 6
 ![Image](actualrunningtests.sh)
