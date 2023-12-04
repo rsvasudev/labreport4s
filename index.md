@@ -27,7 +27,7 @@ Keys pressed:
 ```ruby
 cd lab7<enter>, bash test.sh<enter>
 ```
-I typed ```cd lab7<enter>```. Then I typed ```bash test.sh <enter>``` to run the tests. This then provided the failure output shown in the screenshot.
+I typed ```cd lab7<enter>```. Then I typed ```bash test.sh<enter>``` to run the tests. This then provided the failure output shown in the screenshot.
 
 ## Step 7
 ![Image](vim.png)
@@ -39,9 +39,11 @@ This is the code after the 1 was changed to a 2 and the :wq was typed to save th
 
 Keys pressed:
 ```ruby
-vim ListExamples.java<enter>, <shift>;44<enter>, i<right><right><right><right><right><right><delete>2, <esc><shift>;wq<enter>
+vim ListExamples.java<enter>, <shift+;>44<enter>, i<right><right><right><right><right><right><delete>2, <esc><shift+;>wq<enter>
 ```
-I typed ```vim ListExamples.java<enter>``` to go into the code to fix the bug. Next, I typed  ```<shift>;44<enter>``` to go to the line where the bug was. Then, I typed ```i``` to go into insert mode to make edits and then ```<right><right><right><right><right><right>``` to go to where I needed to change the code. Then i typed ```<delete> 2``` to chnage the index1 to index2 to fix the bug. Then, I typed ```<esc><shift>;wq<enter>``` to go out of insert mode and save my changes.
+I typed ```vim ListExamples.java<enter>``` to go into the code to fix the bug. Next, I typed  ```<shift>;44<enter>``` to go to the line where the bug was. Then, I typed ```i``` to go into insert mode to make edits and then ```<right><right><right><right><right><right>``` to go to where I needed to change the code. Then i typed ```<delete>2``` to chnage the index1 to index2 to fix the bug. Then, I typed ```<esc><shift>;wq<enter>``` to go out of insert mode and save my changes.
+
+Note: ```<shift>;``` means ```:```
 
 ## Step 8
 ![Image](success.png)
