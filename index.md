@@ -49,7 +49,7 @@ Keys pressed:
 ```ruby
 <up><up><up><up><up><enter>
 ```
-I pressed <up> 5 times as the ```bash test.sh``` was 5 up. The output of the successful test is shown.
+I pressed ```<up>``` 5 times as the ```bash test.sh``` was 5 up. The output of the successful test is shown.
 
 ## Step 9
 ![Image](laststep.png)
