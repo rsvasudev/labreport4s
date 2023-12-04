@@ -58,5 +58,5 @@ Keys pressed:
 git add .<enter>, git commit -m "muthu"<enter>, git push<enter>
 ```
 I typed ```git add .<enter>``` to add the change to the staging area. The I typed ```git commit -m "muthu"<enter>``` so the changes are recorded. Lastly, I typed ```git push<enter>``` to make sure the chnages were published. All these commands as they hadn't been used previously. The output is shown above. This, then, pushed it to my github account successfully.
-
+ 
 
