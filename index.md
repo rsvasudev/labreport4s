@@ -16,7 +16,7 @@ Note: I was doing this lab report on a school computer as my laptop broke, where
 
 Keys pressed:
 ```ruby
-git clone <command>v<enter>
+git clone <command+v><enter>
 ```
 I typed ```git clone <command>v<enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained.
 
@@ -57,6 +57,6 @@ Keys pressed:
 ```ruby
 git add .<enter>, git commit -m "muthu"<enter>, git push<enter>
 ```
-I typed all these commands as they hadn't been used previously. The output is shown above. This , then pushed it to my github account successfully.
+I typed ```git add .<enter>``` to add the change to the staging area. The I typed ```git commit -m "muthu"<enter>``` so the changes are recorded. Lastly, I typed ```git push<enter>``` to make sure the chnages were published. All these commands as they hadn't been used previously. The output is shown above. This, then, pushed it to my github account successfully.
 
 
