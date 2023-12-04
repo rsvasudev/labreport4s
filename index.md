@@ -18,7 +18,7 @@ Keys pressed:
 ```ruby
 git clone <command>v<enter>
 ```
-I typed ```git clone <command>v<enter>```, which is the respective ssh link of the repository that i forked and ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>```. This was the output I obtained.
+I typed ```git clone <command>v<enter>```, where ```<command>v``` pastes the ssh link ```git@github.com:rsvasudev/lab7.git```, and then pressed ```<enter>``` to git clone the ssh link. This was the output I obtained.
 
 ## Step 6
 ![Image](actualrunningtests.png)
